@@ -1,5 +1,5 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+# Maxym Chmeliwskyj
 
-# Your Github username
+# SoulfulHickory3
